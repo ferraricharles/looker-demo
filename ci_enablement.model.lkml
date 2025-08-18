@@ -27,7 +27,7 @@ explore: order_items {
 
 explore: dim_products {
   view_label: "Demo - All Products"
-  label: "Demo - All Products"
+  label: "Demo - All Productss"
   fields: [ALL_FIELDS*]
 }
 
